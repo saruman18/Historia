@@ -33,7 +33,7 @@ for element in root:
 
 [0;31m---------------------------------------------------------------------------[0m
 [0;31mFileNotFoundError[0m                         Traceback (most recent call last)
-[0;32m/tmp/ipykernel_1850/1907733696.py[0m in [0;36m<module>[0;34m[0m
+[0;32m/tmp/ipykernel_1933/1907733696.py[0m in [0;36m<module>[0;34m[0m
 [1;32m      2[0m [0;34m[0m[0m
 [1;32m      3[0m [0;31m# Parse the XML file[0m[0;34m[0m[0;34m[0m[0;34m[0m[0m
 [0;32m----> 4[0;31m [0mtree[0m [0;34m=[0m [0mET[0m[0;34m.[0m[0mparse[0m[0;34m([0m[0;34m'/content/BT_01_003.xml'[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
